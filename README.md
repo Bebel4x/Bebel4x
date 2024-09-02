@@ -12,3 +12,5 @@ _-Utilizo esse espaço para minha organização e compartilhamento dos meu proje
 isalopes.belly@gmail.com
 
 @Bebebl4x
+
+![]![auau](https://github.com/user-attachments/assets/8ddee3b9-23e6-4259-8a1c-983f4dfa9cb5)
