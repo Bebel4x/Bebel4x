@@ -1,16 +1,14 @@
-## Hi there 👋
+**Boas Vindas ao Meu Perfil!!**
+   Meu nome é Isabelly ✨ 
 
-<!--
-**Bebel4x/Bebel4x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_-Estou estudando na Alura_
 
-Here are some ideas to get you started:
+_-Estou me desenvolvendo na linguagem JavaScript_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos_
+
+**Você pode entrar em contato comigo 📫**
+
+isalopes.belly@gmail.com
+
+@Bebebl4x
